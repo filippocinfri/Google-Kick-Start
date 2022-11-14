@@ -1,4 +1,4 @@
-# Google Kick Start Solutions ![Language](https://img.shields.io/badge/language-Python%203-orange) ![License](https://img.shields.io/github/license/theXYZT/google-kick-start-2021)
+# Google Kick Start Solutions ![Language](https://img.shields.io/badge/language-Python%203-orange) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 My **Python 3** solutions to [Google Kick Start](https://codingcompetitions.withgoogle.com/kickstart/) problems that should pass all the test sets. The solutions are written to run successfully on the online testing platform, which supports the following libraries:
 
