@@ -6,7 +6,10 @@ The solutions are written to run successfully on the online testing platform, wh
  * Numpy 1.19.3
  * Scipy 1.5.3
 
+
 ---
+# [2022](https://codingcompetitions.withgoogle.com/kickstart/archive/2022)
+
 
 ## [Round A](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000436140)
 
