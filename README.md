@@ -11,7 +11,7 @@ The solutions are written to run successfully on the online testing platform, wh
 # [2022](https://codingcompetitions.withgoogle.com/kickstart/archive/2022)
 
 
-## [Round H](https://codingcompetitions.withgoogle.com/kickstart/)
+## [Round H]([https://codingcompetitions.withgoogle.com/kickstart/](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb1b6))
 
 | # | Problem | Solution | Notes |
 |---|---------|----------|-------|
