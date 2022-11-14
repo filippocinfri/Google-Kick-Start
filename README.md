@@ -11,7 +11,7 @@ The solutions are written to run successfully on the online testing platform, wh
 # [2022](https://codingcompetitions.withgoogle.com/kickstart/archive/2022)
 
 
-## [Round A](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000436140)
+## [Round H](https://codingcompetitions.withgoogle.com/kickstart/)
 
 | # | Problem | Solution | Notes |
 |---|---------|----------|-------|
@@ -19,15 +19,4 @@ The solutions are written to run successfully on the online testing platform, wh
 | B | [L Shaped Plots](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000436140/000000000068c509) | [Python 3.7](https://github.com/theXYZT/google-kick-start-2021/blob/master/Round%20A/L-shaped-plots.py) | Requires Numpy |
 | C | [Rabbit House](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000436140/000000000068cb14) | [Python 3.7](https://github.com/theXYZT/google-kick-start-2021/blob/master/Round%20A/rabbit-house.py) | Requires Numpy |
 | D | [Checksum](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000436140/000000000068c2c3) | [Python 3.7](https://github.com/theXYZT/google-kick-start-2021/blob/master/Round%20A/checksum.py) | Requires Numpy and Scipy |
-
-
-## [Round B](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000435a5b)
-
-| # | Problem | Solution | Notes |
-|---|---------|----------|-------|
-| A | [Increasing Substring](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000435a5b/000000000077a882) | [Python 3.7](https://github.com/theXYZT/google-kick-start-2021/blob/master/Round%20B/increasing-substring.py) |  |
-| B | [Longest Progression](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000435a5b/000000000077a3a5) | [Python 3.7](https://github.com/theXYZT/google-kick-start-2021/blob/master/Round%20B/longest-progression.py) |  |
-| C | [Consecutive Primes](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000435a5b/000000000077a8e6) | [Python 3.7](https://github.com/theXYZT/google-kick-start-2021/blob/master/Round%20B/consecutive-primes.py) |  |
-| D | [Truck Delivery](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000435a5b/000000000077a885) | [Python 3.7](https://github.com/theXYZT/google-kick-start-2021/blob/master/Round%20B/truck-delivery.py) |  |
-
 
