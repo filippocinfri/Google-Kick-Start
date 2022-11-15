@@ -2,19 +2,16 @@
 
 def minCoins(L):
     minim = L
-    ris = []
     q = []
-    q.append([1, 0, 1, '']) #(cost, ann, toss, path)
+    q.append([1, 0, 1]) #(cost, annotated, tossed)
     while q:
-        [cost, ann, toss, path] = q.pop()
+        [cost, ann, toss] = q.pop()
         if toss == L and cost < minim:
             minim = cost
-            ris = [cost, ann, toss, path]
-            #print(ris)
         if toss < L and cost < minim:
-            q.append([cost + 1, ann, toss + 1, path + ' 1'])
-            q.append([cost+2, ann, toss + ann, path + ' 2'])
-            q.append([cost + 6, toss, toss*2, path + ' 4'])
+            q.append([cost + 1, ann, toss + 1])
+            q.append([cost+2, ann, toss + ann])
+            q.append([cost + 6, toss, toss*2])
     return minim
 
 # I/O Code
