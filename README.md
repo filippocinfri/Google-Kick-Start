@@ -20,3 +20,13 @@ The solutions are written to run successfully on the online testing platform, wh
 | C | [Electricity]() | [Python 3.7]() |  |
 | D | [Level Design]() | [Python 3.7]() |  |
 
+
+## [Round G](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb2e1)
+
+| # | Problem | Solution | Notes |
+|---|---------|----------|-------|
+| A | [Walktober](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb2e1/0000000000c174f2) | [Python 3.7](https://github.com/filippocinfriuni/Google-Kick-Start/blob/main/2022/Round%20G/2022GWalktober.py) |  |
+| B |  |  |  |
+| C |  |  |  |
+| D |  |  |  |
+
