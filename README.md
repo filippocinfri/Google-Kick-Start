@@ -16,7 +16,7 @@ The solutions are written to run successfully on the online testing platform, wh
 | # | Problem | Solution | Notes |
 |---|---------|----------|-------|
 | A | [Running in Circles](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb1b6/0000000000c4766e) | [Python 3.7](https://github.com/filippocinfriuni/Google-Kick-Start/blob/main/2022/Round%20H/2022HRunning.py) |  |
-| B | [Magical Well Of Lilies]() | [Python 3.7](https://github.com/filippocinfriuni/Google-Kick-Start/blob/main/2022/Round%20H/2022HLilies.py) |  |
+| B | [Magical Well Of Lilies](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb1b6/0000000000c47e79) | [Python 3.7](https://github.com/filippocinfriuni/Google-Kick-Start/blob/main/2022/Round%20H/2022HLilies.py) |  |
 | C | [Electricity]() | [Python 3.7]() |  |
 | D | [Level Design]() | [Python 3.7]() |  |
 
